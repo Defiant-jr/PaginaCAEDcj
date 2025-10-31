@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 196" role="img" aria-labelledby="title desc">
+    <title id="title">Logotipo CNA Idiomas</title>
+    <desc id="desc">Marca CNA com letras vermelhas em italico e a palavra idiomas em azul.</desc>
+    <rect width="500" height="196" rx="24" fill="#ffffff"/>
+    <text x="40" y="120" font-family="'Montserrat', 'Arial Black', Arial, sans-serif"
+          font-weight="700" font-style="italic" font-size="150" fill="#d70d33">CNA</text>
+    <text x="282" y="160" font-family="'Montserrat', 'Arial Black', Arial, sans-serif"
+          font-weight="700" font-size="48" fill="#0b3a75">idiomas</text>
+</svg>

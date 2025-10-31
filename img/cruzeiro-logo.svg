@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 240" role="img" aria-labelledby="title desc">
+    <title id="title">Logotipo Cruzeiro do Sul Virtual</title>
+    <desc id="desc">Estrela metalica com aneis azuis e o texto Cruzeiro do Sul Virtual Educacao a Distancia.</desc>
+    <rect width="620" height="240" rx="28" fill="#ffffff"/>
+    <g transform="translate(70 42)">
+        <g>
+            <path d="M126 20 153 101l85 7-69 53 25 82-68-45-69 45 25-82-69-53 85-7z" fill="#d8dee9"/>
+            <path d="M126 42 149.5 110.5l69.5 5.5-56.5 42 20 66-57-38-57 38 20-66-56.5-42 69.5-5.5z" fill="#f4f6fb"/>
+        </g>
+        <g fill="none" stroke-width="16" stroke-linecap="round">
+            <path d="M17 104c28-46 103-74 184-72 81 2 152 34 176 78" stroke="#0070c9"/>
+            <path d="M14 131c26 56 115 92 214 88 99-4 180-48 199-106" stroke="#0f2747"/>
+        </g>
+    </g>
+    <text x="320" y="118" font-family="'Montserrat', 'Segoe UI', Arial, sans-serif" font-size="52" font-weight="700" fill="#0f2747">Cruzeiro do Sul Virtual</text>
+    <text x="320" y="162" font-family="'Source Sans 3', 'Segoe UI', Arial, sans-serif" font-size="34" font-weight="600" fill="#1450a3">Educacao a Distancia</text>
+</svg>
